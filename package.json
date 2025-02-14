@@ -1,12 +1,13 @@
 {
   "name": "freecodecamp",
   "version": "1.0.0",
+  "description": "Um projeto incrível",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "william",
-  "license": "ISC",
-  "description": ""
+  "author": "vai toma no cu freecodecamp",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
